@@ -4,18 +4,18 @@ Este repositorio contiene una hoja de trucos con ejemplos de conceptos fundament
 
 ## Índice
 
-1.  Variables y Tipos de Datos
-2.  Constantes
-3.  Interpolación y Concatenación de Cadenas
-4.  Conversión de Tipos
-5.  Operadores Aritméticos
-6.  Operadores de Asignación
-7.  Operadores Lógicos
-8.  Operadores de Comparación
-9.  Bucles de Control (for, while, do-while)
-10. Control de Flujo en Bucles (break y continue)
-11. Estructuras Condicionales (if y switch)
-12. Arrays y Listas
+1.  [Variables y Tipos de Datos](#1-variables-y-tipos-de-datos)
+2.  [Constantes](#2-constantes)
+3.  [Interpolación y Concatenación de Cadenas](#3-interpolación-y-concatenación-de-cadenas)
+4.  [Conversión de Tipos](#4-conversión-de-tipos)
+5.  [Operadores Aritméticos](#5-operadores-aritméticos)
+6.  [Operadores de Asignación](#6-operadores-de-asignación)
+7.  [Operadores Lógicos](#7-operadores-lógicos)
+8.  [Operadores de Comparación](#8-operadores-de-comparación)
+9.  [Bucles de Control (for, while, do-while)](#9-bucles-de-control-for-while-do-while)
+10. [Control de Flujo en Bucles (break y continue)](#10-control-de-flujo-en-bucles-break-y-continue)
+11. [Estructuras Condicionales (if y switch)](#11-estructuras-condicionales-if-y-switch)
+12. [Arrays y Listas](#12-arrays-y-listas)
 
 ---
 
