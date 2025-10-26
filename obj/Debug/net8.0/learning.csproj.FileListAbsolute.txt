@@ -1,0 +1,14 @@
+D:\WorkSpace\learning_csharp\learning\learning\bin\Debug\net8.0\learning.exe
+D:\WorkSpace\learning_csharp\learning\learning\bin\Debug\net8.0\learning.deps.json
+D:\WorkSpace\learning_csharp\learning\learning\bin\Debug\net8.0\learning.runtimeconfig.json
+D:\WorkSpace\learning_csharp\learning\learning\bin\Debug\net8.0\learning.dll
+D:\WorkSpace\learning_csharp\learning\learning\bin\Debug\net8.0\learning.pdb
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.AssemblyInfoInputs.cache
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.AssemblyInfo.cs
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.csproj.CoreCompileInputs.cache
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.dll
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\refint\learning.dll
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.pdb
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\learning.genruntimeconfig.cache
+D:\WorkSpace\learning_csharp\learning\learning\obj\Debug\net8.0\ref\learning.dll
